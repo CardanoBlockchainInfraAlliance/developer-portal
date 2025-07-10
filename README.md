@@ -6,6 +6,7 @@ This Readme file serves to publish Project updates and Technical aspects for Cat
 ## Project Updates
 
 ...
+![Call between CBIA and Cardano Foundation](/readme_static/CBIAxCF_call.png)
 
 ## Data Sctructures and Technical CHanges 
 
