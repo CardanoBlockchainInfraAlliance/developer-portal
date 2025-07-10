@@ -8,6 +8,7 @@ This page serves to publish Project updates and Technical aspects for Catalyst f
 ### Stakeholder Updates
 
 Regarding the Stakeholders side of this milestone, we confirm we are now in contact with the Cardano Foundation Dev Portal maintainers, having chatted with [Tommy](https://x.com/adatainment) (CF Community Team) and met with [Bora Oben](https://www.linkedin.com/in/boraoben) (Developer Advocate), who is in charge of overseeing changes to this portal.
+
 We have also engaged with some Dev Portal tooling authors via a [GitHub issue on the portal’s repository](https://github.com/cardano-foundation/developer-portal/issues/1091) and gathered initial [indication of the compatibility of their tool with others](https://docs.google.com/spreadsheets/d/1IJ2LmhQpYqyL4M6hlg0YyVQDlqdqHy4VA54EehP0MLQ) from some CBIA members.
 
 ![Call between CBIA and Cardano Foundation](/readme_static/CBIAxCF_call.png)
@@ -57,7 +58,7 @@ It will have a `releases` section, including `version`, `latest`, `dependencies`
 }
 ```
 
-To prove this, we have built the technical changes necessary to the Developer Portal, achieving an initial version of the code that will display these relations and compatibility within the portal.
+To prove this, we have built the technical changes necessary to the Developer Portal, achieving an initial version of the code that will display these relationships and compatibility within the portal.
 
 The repository can be found at https://github.com/Tanglius/cardano_matrix (its readme includes instructions to run it locally).
 
