@@ -18,7 +18,7 @@ Regarding the Technical side of this milestone, we have established a Data struc
 
 The data file located at `developer-portal/src/data/builder-tools.js` should be extended.
 
-```json 
+```js 
 // Original data structure
 {
     "title": "cardanocli-js",
@@ -32,7 +32,7 @@ The data file located at `developer-portal/src/data/builder-tools.js` should be 
 
 It will have a `releases` section, including `version`, `latest`, `dependencies` and `traits`.
 
-```json
+```js
 // Extended data structure
 {
   "title": "cardanocli-js",
