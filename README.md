@@ -71,5 +71,19 @@ Here are a few screenshots exploring future use cases:
 
 ## Milestone #2 - “Ms2-Viz”
 
+### Evidence of milestone completion
+
+- Dependency Graph [running website](https://45b.io/cbia-infra-tools/tools-rels-compat/)
+
+- Dependency Graph source code, was committed to the main repo in two commits:
+
+  - [First commit](https://github.com/CardanoBlockchainInfraAlliance/developer-portal-cbia/commit/1708fd61b47fb762ab222781ed2405fcb1ac46b8) importing the visualzation tree, data and data-enriching script which we developed as a standalone
+
+  - [Second commit](https://github.com/CardanoBlockchainInfraAlliance/developer-portal-cbia/commit/1708fd61b47fb762ab222781ed2405fcb1ac46b8) incorporating it onto the existing portal pages and style
+
+- Dependency Graph documentation
+
+  - We've included documentation in the repository itself [here](https://github.com/CardanoBlockchainInfraAlliance/developer-portal-cbia/blob/cbia-rels-compat/readme.cbia.md)
+
 
 
